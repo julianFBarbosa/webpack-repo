@@ -1,0 +1,9 @@
+body {
+	display: grid;
+	transition: all 0.5s;
+	user-select: none;
+	background: red;
+	h1 {
+    font-size: responsive;    
+	}
+}
